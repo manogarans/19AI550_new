@@ -1,6 +1,6 @@
 # Ex.No: 4  Implementation of Kinematic movement -seek and Flee behavior in Unity
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:09/03/2026                                                                          
+### REGISTER NUMBER :212223240081
 ### AIM: 
 To write a program to simulate the process of seek and Flee behavior in Unity without NavigationMeshAgent. 
 ### Algorithm:
@@ -82,6 +82,7 @@ public class fleeScript : MonoBehaviour
 ```
 ### Output:
 
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/51554bdf-dd4c-47a8-8ad7-4b80900d8b43" />
 
 
 
